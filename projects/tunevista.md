@@ -1,4 +1,4 @@
-# TuneVista - Music Player Dashboard
+# TuneVista - Music Player
 
 Unlock a world of music without limitations or loss with TuneVista
 
